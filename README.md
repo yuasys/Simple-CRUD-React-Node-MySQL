@@ -24,9 +24,9 @@ Reactの入門から次のステップに進みたいときの課題はバック
 2. 下記のコマンドで、このリポジトリの複写（クローン）を作業ディレクトリに作成します。
 
 ```bash
-$ git clone https://github.com/yuasys/Simple-CRUD-React-Node-MySQL.git crud-test
+git clone https://github.com/yuasys/Simple-CRUD-React-Node-MySQL.git crud-test
 ```
 
-上記のように、`$ git clone <複写元のリポジトリurl> <格納するディレクトリ名>` でクローンを作成できます。
+上記のように、`git clone <複写元のリポジトリurl> <格納するディレクトリ名>` でクローンを作成できます。
 
-3. 作成したクローンのディレクトリに移動し `$ code .` コマンドでVScodeを開くことにより開発作業を開始できます。
+3. 作成したクローンのディレクトリに移動し `code .` コマンドでVScodeを開くことにより開発作業を開始できます。
