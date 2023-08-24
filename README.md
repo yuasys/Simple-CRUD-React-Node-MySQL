@@ -1,7 +1,8 @@
 # Simple-CRUD-React-Node-MySQL
 Reactの入門から次のステップに進みたいときの課題はバックエンドとの連携です。
-フォークさせていただいた、[このリポジトリ](https://github.com/machadop1407/Simple-CRUD-React-Node-MySQL)と出会って、とても参考になりました。原作者さまに感謝します。
-解説動画（[パート１](https://www.youtube.com/watch?v=re3OIOr9dJI)、[パート２](https://youtu.be/AohARsUlwQk?si=sXZbFmi-OfG_Ol76)）もあるので、とても助けになると思います。
+フォークさせていただいた、[このリポジトリ](https://github.com/machadop1407/Simple-CRUD-React-Node-MySQL)と出会って、とても参考になりました。原作者さまに感謝します。  
+解説動画（[パート１](https://www.youtube.com/watch?v=re3OIOr9dJI)、[パート２](https://www.youtube.com/watch?v=AohARsUlwQk&t=0s))もあるので、とても助けになると思います。  
+
 ## 私の環境
 ### ハードウェア
  - Mac mini (Late 2012)
